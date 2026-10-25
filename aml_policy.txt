@@ -1,0 +1,6 @@
+AML Robocop Demo Policy
+
+Large transactions should be reviewed by an analyst.
+Repeated transactions may require additional review.
+Alerts do not prove money laundering.
+A human reviewer should examine alerts before making a decision.
